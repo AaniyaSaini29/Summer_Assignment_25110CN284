@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Allprime {
+public class AllPrime {
     public static void main(String[] args) {
        Scanner input = new Scanner(System.in);
        System.out.println("");
